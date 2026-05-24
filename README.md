@@ -189,6 +189,6 @@ Você não pode:
 
 **Feito com 💎 pra quem ama construir bots com qualidade.**
 
-[Instalar na Chrome Web Store](https://chromewebstore.google.com/detail/kkpdgdkicklljbffacpdhgcbcijlbjdf) · [Privacidade](./PRIVACY.md) · [Updates](./CHANGELOG.md) · [Reportar bug](https://forms.gle/gALjtjQWAMSxbDev6)
+[Instalar na Chrome Web Store](https://chromewebstore.google.com/detail/kkpdgdkicklljbffacpdhgcbcijlbjdf) · [Privacidade](./PRIVACY.md) · [Updates](./VERSION_HISTORY.md) · [Reportar bug](https://forms.gle/gALjtjQWAMSxbDev6)
 
 </div>
