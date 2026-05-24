@@ -164,7 +164,7 @@ Todas as operações descritas nesta política podem ser **verificadas independe
 
 Para dúvidas sobre privacidade, solicitações de exclusão de dados ou reporte de problemas de segurança:
 
-**Kagi Adrian Garcia** — desenvolvedor responsável
+**Adrian Garcia** — desenvolvedor responsável
 ✉️ holocrongiindev@duck.com
 
 Ou pelo formulário oficial de feedback da extensão:
