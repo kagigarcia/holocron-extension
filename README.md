@@ -145,8 +145,7 @@ Footer mostra ao vivo: blocos, inválidos, zonas, agents, idade do snapshot, blo
 - Arraste o NOME da zona pra mover zona + blocos juntos
 - Persiste após F5 via `debouncedSave` nativo do Blip
 
-📝 **Lista completa:** [CHANGELOG.md](./CHANGELOG.md)
-📖 **Narrativa visual:** [VERSION_HISTORY.md](./VERSION_HISTORY.md)
+📖 **Histórico:** [VERSION_HISTORY.md](./VERSION_HISTORY.md)
 
 ---
 
