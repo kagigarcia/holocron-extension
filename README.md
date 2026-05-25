@@ -15,7 +15,7 @@
 
 ## 📖 O que é?
 
-**Holocron** é uma extensão Chrome **não-oficial** que adiciona ferramentas de produtividade ao **Blip Builder** — a plataforma low-code da Take Blip pra construir chatbots.
+**Holocron** é uma extensão Chrome **não-oficial** que adiciona ferramentas de produtividade ao **Blip Builder** — a plataforma low-code da Blip pra construir chatbots.
 
 Pensada por quem usa o Builder no dia-a-dia: traz diff visual antes de publicar, lint do flow, organização por zonas coloridas, alinhamento automático, histórico de versões local, atalhos de teclado, e muito mais.
 
